@@ -1,0 +1,19 @@
+create->Used to create a database and table inside db//create database dbname;//create table tablename(column names);
+use->is used to use the db//use dbname;
+show->Is used to shee the table present in the database//show tables;
+
+alter->it helps us to rename our table name//alter table current_tablename rename to new_tablename;
+desc->To see the table description//desc tablename;
+drop->To delete the whole table from database or to delete the db//drop table tablename;//drop database databasename;
+truncate->To delete all the contents present inside the db table//truncate table tablename;
+
+1.What is view?
+2.Difference between Normalaization and Denormalaization?
+3.What is Indexing?
+4.What are joins?
+5.Difference between primary key and unique?
+6.Difference between truncate and delete?
+7.What is foreign key?
+8.Find 2nd highest marks from the student table?
+7.What is cursor?
+8.Crud peration?

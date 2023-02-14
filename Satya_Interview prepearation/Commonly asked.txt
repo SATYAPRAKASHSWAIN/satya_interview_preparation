@@ -1,0 +1,43 @@
+•Difference between "string" and new String("string")
+
+•how to create custom checked exception
+
+•How string is immutable, what is the coding inside string.java
+
+•Spring context, spring scope
+
+•How to configure hibernate.cfg.xml
+
+•Exception handling in spring
+
+•What happen if one method is synchronised and second is not and one thread is using one method and other using another method.
+
+•Concurrent modification exception
+
+•Identifier in java
+
+•How to create immutable class without using final keyword on class declaration
+
+•Iterate value and key one by one in hashmap
+
+•Sort array  using only one for loop
+
+•Find second largest value in array without using any sorting algorithm and with only one for loop
+
+•Reverse signed integer
+
+•Why we use immutable class over mutable class
+
+•First level catch and second level catch
+
+•Where to use comparable and where use comparator and why
+
+•Main advantage of Spring Boot
+
+•@SpringBootApplication
+
+•What is Normalization
+
+•How to fetch maximum salary from each department if table having multiple departments
+
+•How to encrypt and decrypt password in spring boot
